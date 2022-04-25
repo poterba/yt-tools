@@ -1,0 +1,5 @@
+.venv
+
+headers_auth.json
+
+*.txt
